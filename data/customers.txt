@@ -1,0 +1,1 @@
+C001|Adam Lee|adam.cust|pass123|Male|23|+6012-2627282|adam@gmail.com|Kuala Lumpur|Malaysian

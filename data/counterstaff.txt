@@ -1,0 +1,2 @@
+CS001|Azman Rahman|azman.staff|pass321|Male|28|+6012-5566778|azman.staff@apu.edu.my|Bukit Jalil Kuala Lumpur|Malaysian
+CS002|yousef haroon|yousef.staff|pass123|male|26|+60177076338|TP085323@apu.edu.my|Kuala Lumpur|MalaysianCS003

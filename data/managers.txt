@@ -1,0 +1,2 @@
+M001|Ahmad Zaki|ahmad.manager|pass123|Male|40|+6012-3456789|ahmad.manager@apu.edu.my|Bukit Jalil Kuala Lumpur|Malaysian
+M002|Siti Nurhaliza|siti.manager|pass123|Female|38|+6013-4567890|siti.manager@apu.edu.my|Kuala Lumpur|Malaysian

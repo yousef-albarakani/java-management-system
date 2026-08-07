@@ -1,0 +1,2 @@
+S001|Normal Service|1|120|Basic vehicle inspection
+S002|Major Service|3|200|Full service
